@@ -3,8 +3,14 @@
 #### About
 Hello! I am a developer with just over a year of experience, primarily focused on web development. I am always seeking to learn and improve my skills to create robust and scalable web applications. Student on [Rocketseat](https://rocketseat.com.br)
 
-#### Main areas of interest:
-My main focus is full stack web development, and I have experience in projects such as a digital bank, an ecommerce platform, and a restaurant order management system based on iFood.
+#### My interests:
+My primary focus lies in full stack web development, where I am passionate about crafting robust and scalable web applications.
+
+
+#### Main projects:
+- :bank: digital bank
+- :shopping_cart: an ecommerce platform
+- :fork_and_knife: and a restaurant order management system based on iFood
 
 #### Technical skills:
 - Main language: :computer: `JavaScript`
